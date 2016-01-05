@@ -1,5 +1,5 @@
 # Placmank
-
+Placmank theme for Plank made in the style of a OS X El Capitan 
 ![Screenshots]()
 
 ## Installation
