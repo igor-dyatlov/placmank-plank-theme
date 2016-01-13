@@ -9,7 +9,10 @@ Placmank theme for Plank made in the style of a OS X El Capitan
 ![Screenshots] (https://raw.githubusercontent.com/igor-dyatlov/Placmank/master/Screenshots/Screenshots_2.png)
 
 ## Installation
-Coming soon repository for Ubuntu 
+Run from source folder:
+
+    ./install.sh
+###### Coming soon repository for Ubuntu 
 
 ### Donate
 https://www.paypal.me/IgorDyatlov 
