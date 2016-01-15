@@ -14,6 +14,10 @@ Run from source folder:
     ./install.sh
 ###### Coming soon repository for Ubuntu 
 
+  - sudo add-apt-repository -y ppa:/dyatlov-igor/placmank
+  - sudo apt-get update
+  - sudo apt-get install placmank
+
 ### Donate
 https://www.paypal.me/IgorDyatlov 
 
