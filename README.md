@@ -12,9 +12,14 @@ Placmank theme for Plank made in the style of a OS X El Capitan
 Run from source folder:
 
     ./install.sh
-###### Coming soon repository for Ubuntu 
+###### Repository for Ubuntu and derivatives
+Ubuntu 15.10/15.04/14.04/12.04
+Linux Mint 17.3/17.2/17.1/17/13
+elementary OS 0.2/0.3
+Deepin 15
 
-  - sudo add-apt-repository -y ppa:/dyatlov-igor/placmank
+
+  - sudo add-apt-repository ppa:/dyatlov-igor/placmank
   - sudo apt-get update
   - sudo apt-get install placmank
 
