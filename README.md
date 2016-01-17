@@ -19,9 +19,8 @@ Run from source folder:
 - Ubuntu 15.10/15.04/14.04/12.04
 - Linux Mint 17.3/17.2/17.1/17/13
 - Elementary OS 0.2/0.3
-- 
 
-
+Run in the console:
 
     sudo add-apt-repository ppa:/dyatlov-igor/placmank
     sudo apt-get update
