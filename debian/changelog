@@ -1,0 +1,12 @@
+placmank (1.0.1) unstable; urgency=low
+
+  * debian/changelog
+    - fix License text
+
+ -- Igor Dyatlov <dyatlov.igor@gmail.com>  Thu, 17 Jan 2016 14:45:04 +0200
+
+placmank (1.0) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Igor Dyatlov <dyatlov.igor@gmail.com>  Thu, 16 Jan 2016 04:19:02 +0200

@@ -1,0 +1,14 @@
+Source: placmank
+Section: gnome
+Priority: optional
+Maintainer: Igor Dyatlov <dyatlov.igor@gmail.com>
+Homepage: https://github.com/igor-dyatlov/placmank-plank-theme
+Build-Depends: debhelper (>= 7)
+Version: 1.0
+
+Package: placmank
+Architecture: all
+Installed-Size: 2618 
+Depends: ${misc:Depends}, plank
+Description: Placmank theme for Plank made in the style of a OS X El Capitan
+
