@@ -26,7 +26,7 @@ Run in the console:
     sudo apt-get update
     sudo apt-get install placmank
 
-### Donate
+### Donation
 https://www.paypal.me/IgorDyatlov 
 
 ### License
