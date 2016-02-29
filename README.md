@@ -1,6 +1,4 @@
 # Placmank
-[![License](https://poser.pugx.org/pugx/badge-poser/license)](http://opensource.org/licenses/MIT)
-
 Placmank theme for Plank made in the style of a OS X El Capitan
  
 ![Screenshots] (https://raw.githubusercontent.com/igor-dyatlov/placmank-plank-theme/master/Screenshots/Screenshots_1.png) 
@@ -22,7 +20,7 @@ Run from source folder:
 
 Run in the console:
 
-    sudo add-apt-repository ppa:/dyatlov-igor/placmank
+    sudo add-apt-repository ppa:dyatlov-igor/placmank
     sudo apt-get update
     sudo apt-get install placmank
 
